@@ -1,0 +1,231 @@
+/*ABOUT PAGE*/
+.cen{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+    gap:40px;
+
+}
+.dott{
+    border-top: 2px dashed #000;
+}
+.content{
+    text-align:justify;
+    background-color: aqua;
+    justify-content: right;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.about {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+
+.th{
+    margin-bottom: 60px;
+}
+
+.theme{
+    margin-top: -60px;
+}
+
+.content1{
+    text-align: justify;
+    justify-content: left;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 60px;
+}
+
+.about1{
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    padding-right: 30px;
+}
+
+.footer{
+    margin-top: 20px;
+    background-color: black;
+
+}
+
+
+.foot1{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.l1{
+    color: white;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+.dottwhite{
+    border-top: 2px dashed white;
+}
+
+.foot2{
+    display: flex;
+    gap:60px;
+}
+
+.grid1{
+    display: grid;
+    grid-template-rows: 80px 40px 40px 40px;
+}
+
+.l3{
+    color:red;
+    padding-left: 10px ;
+    padding-top: -10px;
+}
+
+.l4{
+    color:white;
+    padding-left: 10px;
+    padding-top: -10px;
+}
+
+.l2{
+    color: red;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.line2{
+    padding-top: 35px;
+}
+
+
+img#phone{
+    height: 20px;
+    width: 20px;
+}
+
+.pho{
+    color: white;
+    padding: 1px 10px 10px 10px;
+}
+
+img#mail{
+    height: 20px;
+    width: 20px;
+}
+
+.emal{
+    color: white;
+    padding: 1px 10px 10px 10px;
+}
+
+.dotline{
+    border-top: 2px dashed;
+    width:425px;
+    height: 5px;
+    background-color: white;    
+}
+
+.subtitle1{
+    justify-content: center;
+    color: white;
+    padding-top: 20px;
+}
+
+img#link{
+    height: 20px;
+    width: 20px;
+}
+
+.Venue{
+    padding-top: 20px;
+    color:white;
+}
+
+.map{
+    padding: 10px;
+}
+
+.rowsocial{
+    display: flex;
+    gap:20px;
+    padding-left: 10px;
+}
+
+img.i1{
+    height: 80px;
+    width: 80px;
+    
+}
+
+.end{
+    text-align: center;
+    color:white;
+    padding-bottom: 10px;
+}
+
+#a1{
+    text-decoration: none;
+    color: white;
+}
+
+/*CONTACT PAGE*/
+
+.up{
+    padding-top: 150px;
+    color: red;
+    padding-left: 30px;
+}
+
+.l5{
+    padding-left: 50px;
+    color:black;
+}
+
+.info1{
+    
+    height: 250px;
+    width: 500px;
+    background-color: bisque;
+}
+
+.rec1{
+    padding: 30px 0 0 150px;
+    filter: drop-shadow(20px 20px 5px rgb(61, 60, 57));
+}
+
+
+
+.rec2{
+    
+    padding-left: 650px;
+    margin-bottom: 10px;
+    filter: drop-shadow(20px 20px 5px rgb(61, 60, 57));
+    
+}
+
+.rec3{
+    
+    padding-left: 152px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+    filter: drop-shadow(20px 20px 5px rgb(61, 60, 57));
+}
+
+.cname{
+    max-width: 90%;
+    max-height: 90%;
+    text-align: center;
+    padding-top: 50px;
+}
