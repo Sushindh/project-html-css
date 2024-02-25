@@ -11,11 +11,12 @@
 }
 .content{
     text-align:justify;
-    background-color: aqua;
+    background-color: #91fd91;
     justify-content: right;
     border-radius: 10px;
     padding-left: 20px;
     padding: 10px 10px 10px 10px;
+    margin-right: 10px;
 }
 
 .about {
@@ -54,7 +55,7 @@ img#pec{
     justify-content: left;
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
-    background-color: aqua;
+    background-color: #91fd91;
     margin-bottom: 60px;
 }
 
@@ -247,22 +248,15 @@ img#yt{
 }
 
 
-
 .rec2{
     
     padding-left: 650px;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
     filter: drop-shadow(20px 20px 5px rgb(61, 60, 57));
     
 }
 
-.rec3{
-    
-    padding-left: 152px;
-    margin-bottom: 20px;
-    margin-top: -10px;
-    filter: drop-shadow(20px 20px 5px rgb(61, 60, 57));
-}
+
 
 .cname{
     max-width: 90%;
