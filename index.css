@@ -35,12 +35,26 @@
     margin-top: -60px;
 }
 
+img#pec{
+    height: 150px;
+    width: 150px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10%;
+}
+
+.para1{
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 70px;
+    margin-left: 40px;
+    margin-top: -10px;
+}
 .content1{
     text-align: justify;
     justify-content: left;
-    background-color: aqua;
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
+    background-color: aqua;
     margin-bottom: 60px;
 }
 
@@ -160,13 +174,40 @@ img#link{
 .rowsocial{
     display: flex;
     gap:20px;
-    padding-left: 10px;
+    padding-left: 450px;
 }
 
 img.i1{
     height: 80px;
     width: 80px;
     
+}
+
+img#face{
+    height: 90px;
+    width: 90px;
+    background-color:rgb(49, 111, 246);
+
+}
+
+img#in{
+    height: 90px;
+    width: 90px;
+    background-color:rgb(10, 102, 194);
+}
+
+img#insta{
+    height: 90px;
+    width: 90px;
+    background-image:radial-gradient(circle,red,yellow,pink);
+    border-radius: 20px;
+}
+
+img#yt{
+    height: 90px;
+    width: 90px;
+    background-color: red;
+    border-radius: 30%;
 }
 
 .end{
