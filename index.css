@@ -26,6 +26,20 @@
     line-height: 26px;
     margin-bottom: 20px;
     padding-left: 30px;
+    padding-right: 50px;
+    position:relative;
+    display: inline;
+}
+
+.about::after{
+    content:'';
+    width: 2px;
+    height: 100%;
+    display: block;
+    background-color: crimson;
+    position: absolute;
+    right:-5px;
+    top: 0%;
 }
 
 .th{
@@ -54,9 +68,22 @@ img#pec{
     text-align: justify;
     justify-content: left;
     border-radius: 10px;
-    padding: 10px 10px 10px 10px;
+    padding: 30px 30px 30px 30px;
     background-color: #91fd91;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
+    position: relative;
+    display: inline;
+}
+
+.content1::after{
+    content:'';
+    width: 2.5px;
+    height: 100%;
+    display: block;
+    background-color: crimson;
+    position: absolute;
+    right: -40px;
+    top: 0%;
 }
 
 .about1{
@@ -66,12 +93,12 @@ img#pec{
     line-height: 26px;
     margin-bottom: 20px;
     padding-right: 30px;
+    padding-bottom: 10px;
 }
 
 .footer{
     margin-top: 20px;
     background-color: black;
-
 }
 
 
@@ -224,6 +251,11 @@ img#yt{
 
 /*CONTACT PAGE*/
 
+#em{
+    text-decoration: none;
+    color:black;
+}
+
 .up{
     padding-top: 150px;
     color: red;
@@ -256,11 +288,26 @@ img#yt{
     
 }
 
-
-
 .cname{
     max-width: 90%;
     max-height: 90%;
     text-align: center;
     padding-top: 50px;
+}
+
+/*Objective page*/
+
+#v{
+    position: relative;
+    display:inline;
+}
+
+#v::after{
+    content:'';
+    width: 4px;
+    height: 100%;
+    display: block;
+    position: absolute;
+    right:-5px;
+    top: 0%;
 }
