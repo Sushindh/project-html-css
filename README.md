@@ -21,7 +21,7 @@ PECCON-25 (short for Power Engineering, Computing and Control) is an annual inte
 - CSS3 and Bootstrap
 - JavaScript
 
-## Contact🎉
+## Contact☎📞
 
 If you have any questions, suggestions, or inquiries, please feel free to contact us at [sushindh.anandan@gmail.com].
 
